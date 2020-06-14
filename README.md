@@ -1,5 +1,5 @@
-## This project will detect, and recognize faces from saved images
-## *saved images are available in this repository*
+This project will detect, and recognize faces from saved images
+### *saved images are available in this repository*
 
 # Comparing Faces
 ## Compare faces and show if 2 faces match or not, with a score
